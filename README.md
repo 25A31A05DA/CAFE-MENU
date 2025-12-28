@@ -1,6 +1,6 @@
 # CAFE-MENU
 
-This is a simple café menu webpage I built as part of the [freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/) curriculum.  
+This is a simple CAFE-MENU webpage I built as part of the [freeCodeCamp Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/) curriculum.  
 It’s a fun project that uses basic HTML and CSS to create a styled menu page with coffee and dessert items.
 
 ---
