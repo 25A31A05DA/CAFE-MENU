@@ -4,7 +4,7 @@ This is a simple café menu webpage I built as part of the [freeCodeCamp Respons
 It’s a fun project that uses basic HTML and CSS to create a styled menu page with coffee and dessert items.
 
 ---
-## LIVE DEMO:
+## LIVE DEMO:t https://25a31a05da.github.io/CAFE-MENU/
 
 ##  What’s Inside
 - A clean, semantic HTML structure (`header`, `section`, `footer`)
